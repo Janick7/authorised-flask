@@ -1,2 +1,2 @@
 # easy-starter-flask
-simple web app ...
+This is a simple, without css "sign in, sign-up" code with Python + Flask.
